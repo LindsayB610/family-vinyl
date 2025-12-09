@@ -1,6 +1,6 @@
 # 🎵 Family Vinyl Collection
 
-A catalog of our family's vinyl record collection, spanning decades of music from classical to metal, holiday favorites to film soundtracks.
+A catalog of our family's vinyl record collection, spanning decades of music from classical to metal, holiday favorites to film soundtracks. Plus a wishlist of records we're hunting for.
 
 ## 📊 Collection Stats
 
@@ -12,7 +12,7 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📁 Data Format
 
-The collection is stored in `vinyl-collection.csv` with the following fields:
+The collection is stored in `vinyl-collection.csv` and the hunt list lives in `wishlist.csv`. Both use the same fields:
 
 | Field | Description |
 |-------|-------------|
@@ -51,6 +51,35 @@ The collection is stored in `vinyl-collection.csv` with the following fields:
 ### Children's
 - Frank Luther - *Winnie The Pooh and Christopher Robin* (1948)
 - The Peppermint Kandy Kids - *Frosty The Snowman* & *Rudolph*
+
+## 🎯 Wishlist Highlights
+
+**34 records** on the hunt list, organized by priority:
+
+### 🔥 Top Priority
+- Sia – *Everyday Is Christmas*, *This Is Acting*
+- *The Phantom of the Opera* – Original London or Broadway Cast
+- *Rent* – Original Broadway Cast Recording
+- Lady Gaga & Bradley Cooper – *A Star Is Born*
+
+### 🚀 Star Trek & Battlestar Galactica
+- Jerry Goldsmith, James Horner, Cliff Eidelman – Trek movie scores
+- Bear McCreary – BSG Season 1, *All Along the Watchtower* 12"
+- 🦄 DS9 promo single (instant buy if found)
+
+### 🎬 Soundtracks & Musicals
+- Howard Shore – *Fellowship of the Ring*, *Return of the King*
+- Whitney Houston – *The Bodyguard*, *The Preacher's Wife*, *Waiting to Exhale*
+- *Sister Act* & *Sister Act 2*
+
+### 🎸 Rock & Nostalgia
+- Evanescence – *Fallen*
+- Garth Brooks – *Double Live*, *No Fences*
+- Dan Fogelberg – *Exiles*
+
+### 💛 Nice-to-Grab
+- Celine Dion – *Falling Into You*, *Let's Talk About Love*
+- Florence + The Machine – *Ceremonials*, *How Big, How Blue, How Beautiful*
 
 ## 📝 Condition Grading
 
