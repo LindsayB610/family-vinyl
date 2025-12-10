@@ -64,33 +64,13 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎯 Wishlist Highlights
 
-**32 records** on the hunt list, organized by priority:
+**35 records** on the hunt list. Top 5 most wanted:
 
-### 🔥 Top Priority
-- Sia – *Everyday Is Christmas*, *This Is Acting*
-- *The Phantom of the Opera* – Original London or Broadway Cast
-- *Rent* – Original Broadway Cast Recording
-- Lady Gaga & Bradley Cooper – *A Star Is Born*
-
-### 🚀 Star Trek & Battlestar Galactica
-- James Horner – *Star Trek II: The Wrath of Khan*
-- Cliff Eidelman – *Star Trek VI: The Undiscovered Country*
-- Jerry Goldsmith – *Star Trek: First Contact*
-- Bear McCreary – BSG Season 1, *All Along the Watchtower* 12"
-- 🦄 DS9 promo single (instant buy if found)
-
-### 🎬 Soundtracks & Musicals
-- Howard Shore – *Fellowship of the Ring*, *Return of the King*
-- Whitney Houston – *The Bodyguard*, *The Preacher's Wife*, *Waiting to Exhale*
-- *Sister Act* & *Sister Act 2*
-
-### 🎸 Rock & Nostalgia
-- Evanescence – *Fallen*
-- Garth Brooks – *Double Live*, *No Fences*
-
-### 💛 Nice-to-Grab
-- Celine Dion – *Falling Into You*, *Let's Talk About Love*
-- Florence + The Machine – *Ceremonials*, *How Big, How Blue, How Beautiful*
+1. Sia – *Everyday Is Christmas*
+2. Whitney Houston – *The Bodyguard* / *The Preacher's Wife* / *Waiting to Exhale*
+3. Garth Brooks – *Double Live* / *No Fences*
+4. *The Phantom of the Opera* – Original London or Broadway Cast
+5. Frank Sinatra – *A Jolly Christmas from Frank Sinatra*
 
 ## 📝 Condition Grading
 
