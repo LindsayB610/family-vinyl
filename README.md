@@ -4,9 +4,9 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 24 albums
-- **Total Discs:** 31 vinyl records
-- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word
+- **Total Entries:** 33 albums
+- **Total Discs:** 51 vinyl records
+- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country
 - **Oldest Recording:** 1948 (Winnie The Pooh)
 - **Newest Recording:** 2024 (Kylie Minogue, K-Pop: Demon Hunters)
 
@@ -40,13 +40,23 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 - Metallica - *...And Justice For All* (1988)
 - Opeth - *Still Life* (1999)
 
+### Jazz & Vocal
+- Frank Sinatra - *Sinatra at the Sands* (1966, with Count Basie & The Orchestra)
+
 ### Classical
 - Academy of St. Martin in the Fields - Handel's *Messiah* (3xLP box set)
 - Craig Armstrong - *Nocturnes: Music for 2 Pianos*
+- The Philadelphia Orchestra / Eugene Ormandy - *The Tchaikovsky Album* (7xLP box set)
+- Giuseppe Verdi / Riccardo Muti - *Aida* (3xLP box set)
 
 ### Soundtracks
 - Howard Shore - *The Lord of the Rings: The Two Towers*
 - *K-Pop: Demon Hunters* (Netflix)
+- Jerry Goldsmith - *Star Trek: The Motion Picture*
+- James Horner - *Star Trek III: The Search for Spock*
+
+### Country
+- Crystal Gayle - *Classic Crystal* (1979)
 
 ### Children's
 - Frank Luther - *Winnie The Pooh and Christopher Robin* (1948)
@@ -54,7 +64,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎯 Wishlist Highlights
 
-**34 records** on the hunt list, organized by priority:
+**32 records** on the hunt list, organized by priority:
 
 ### 🔥 Top Priority
 - Sia – *Everyday Is Christmas*, *This Is Acting*
@@ -63,7 +73,9 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 - Lady Gaga & Bradley Cooper – *A Star Is Born*
 
 ### 🚀 Star Trek & Battlestar Galactica
-- Jerry Goldsmith, James Horner, Cliff Eidelman – Trek movie scores
+- James Horner – *Star Trek II: The Wrath of Khan*
+- Cliff Eidelman – *Star Trek VI: The Undiscovered Country*
+- Jerry Goldsmith – *Star Trek: First Contact*
 - Bear McCreary – BSG Season 1, *All Along the Watchtower* 12"
 - 🦄 DS9 promo single (instant buy if found)
 
@@ -75,7 +87,6 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 ### 🎸 Rock & Nostalgia
 - Evanescence – *Fallen*
 - Garth Brooks – *Double Live*, *No Fences*
-- Dan Fogelberg – *Exiles*
 
 ### 💛 Nice-to-Grab
 - Celine Dion – *Falling Into You*, *Let's Talk About Love*
