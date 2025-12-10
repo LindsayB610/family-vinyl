@@ -4,8 +4,8 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 33 albums
-- **Total Discs:** 51 vinyl records
+- **Total Entries:** 34 albums
+- **Total Discs:** 53 vinyl records
 - **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country
 - **Oldest Recording:** 1948 (Winnie The Pooh)
 - **Newest Recording:** 2024 (Kylie Minogue, K-Pop: Demon Hunters)
@@ -57,6 +57,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ### Country
 - Crystal Gayle - *Classic Crystal* (1979)
+- Garth Brooks - *White Out* (1998)
 
 ### Children's
 - Frank Luther - *Winnie The Pooh and Christopher Robin* (1948)
