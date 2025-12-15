@@ -4,11 +4,11 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 34 albums
-- **Total Discs:** 53 vinyl records
-- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country
+- **Total Entries:** 36 albums
+- **Total Discs:** 55 vinyl records
+- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock
 - **Oldest Recording:** 1948 (Winnie The Pooh)
-- **Newest Recording:** 2024 (Kylie Minogue, K-Pop: Demon Hunters)
+- **Newest Recording:** 2024 (Kylie Minogue, K-Pop: Demon Hunters, Critical Role - Winter's Crest)
 
 ## 📁 Data Format
 
@@ -34,11 +34,13 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 - Bing Crosby & Columbus Boychoir - *Family Christmas Favorites*
 - Barbra Streisand - *A Christmas Album* (1967)
 - Various Artists - *A Very Special Christmas* (Keith Haring cover, 1987)
+- Critical Role - *Winter's Crest - A Holiday Album* (2024)
 
 ### Rock & Metal
 - The Beatles - *The White Album* (1968)
 - Metallica - *...And Justice For All* (1988)
 - Opeth - *Still Life* (1999)
+- Silverchair - *Neon Ballroom* (1999)
 
 ### Jazz & Vocal
 - Frank Sinatra - *Sinatra at the Sands* (1966, with Count Basie & The Orchestra)
