@@ -4,8 +4,8 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 36 albums
-- **Total Discs:** 55 vinyl records
+- **Total Entries:** 37 albums
+- **Total Discs:** 56 vinyl records
 - **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock
 - **Oldest Recording:** 1948 (Winnie The Pooh)
 - **Newest Recording:** 2024 (Kylie Minogue, K-Pop: Demon Hunters, Critical Role - Winter's Crest)
@@ -52,6 +52,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 - Giuseppe Verdi / Riccardo Muti - *Aida* (3xLP box set)
 
 ### Soundtracks
+- Whitney Houston - *The Bodyguard (Original Soundtrack)* (1992)
 - Howard Shore - *The Lord of the Rings: The Two Towers*
 - *K-Pop: Demon Hunters* (Netflix)
 - Jerry Goldsmith - *Star Trek: The Motion Picture*
@@ -67,10 +68,10 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎯 Wishlist Highlights
 
-**35 records** on the hunt list. Top 5 most wanted:
+**34 records** on the hunt list. Top 5 most wanted:
 
 1. Sia – *Everyday Is Christmas*
-2. Whitney Houston – *The Bodyguard* / *The Preacher's Wife* / *Waiting to Exhale*
+2. Whitney Houston – *The Preacher's Wife* / *Waiting to Exhale*
 3. Garth Brooks – *Double Live* / *No Fences*
 4. *The Phantom of the Opera* – Original London or Broadway Cast
 5. Frank Sinatra – *A Jolly Christmas from Frank Sinatra*
