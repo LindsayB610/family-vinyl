@@ -4,9 +4,9 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 37 albums
-- **Total Discs:** 56 vinyl records
-- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock
+- **Total Entries:** 39 albums
+- **Total Discs:** 59 vinyl records
+- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk
 - **Oldest Recording:** 1948 (Winnie The Pooh)
 - **Newest Recording:** 2024 (Kylie Minogue, K-Pop: Demon Hunters, Critical Role - Winter's Crest)
 
@@ -35,9 +35,11 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 - Barbra Streisand - *A Christmas Album* (1967)
 - Various Artists - *A Very Special Christmas* (Keith Haring cover, 1987)
 - Critical Role - *Winter's Crest - A Holiday Album* (2024)
+- Sia - *Everyday Is Christmas Snowman EP* (2017, pink splatter vinyl)
 
 ### Rock & Metal
 - The Beatles - *The White Album* (1968)
+- Arlo Guthrie - *Alice's Restaurant* (1967)
 - Metallica - *...And Justice For All* (1988)
 - Opeth - *Still Life* (1999)
 - Silverchair - *Neon Ballroom* (1999)
@@ -68,7 +70,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎯 Wishlist Highlights
 
-**51 records** on the hunt list. Top 5 most wanted:
+**50 records** on the hunt list. Top 5 most wanted:
 
 1. Sia – *Everyday Is Christmas*
 2. Whitney Houston – *The Preacher's Wife* / *Waiting to Exhale*
