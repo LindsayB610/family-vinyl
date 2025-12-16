@@ -68,7 +68,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎯 Wishlist Highlights
 
-**40 records** on the hunt list. Top 5 most wanted:
+**51 records** on the hunt list. Top 5 most wanted:
 
 1. Sia – *Everyday Is Christmas*
 2. Whitney Houston – *The Preacher's Wife* / *Waiting to Exhale*
