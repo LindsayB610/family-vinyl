@@ -60,13 +60,20 @@ This document provides instructions for AI agents working on the Family Vinyl Co
 2. Read `wishlist.csv` to check if album exists there
 3. Add entry to `vinyl-collection.csv`
 4. Remove from `wishlist.csv` if present
-5. Update `README.md` stats and highlights
-6. Verify all counts are accurate
+5. **Re-sort `vinyl-collection.csv` alphabetically by Artist** (case-insensitive)
+6. Update `README.md` stats and highlights
+7. Verify all counts are accurate
 
 ### Removing from Wishlist
 - When user acquires an album, remove it from wishlist
+- **Re-sort `wishlist.csv` alphabetically by Artist** (case-insensitive) after removal
 - Update wishlist count in README
 - Update top 5 most wanted if that item was listed
+
+### Adding to Wishlist
+- When adding new items to wishlist, add the entry
+- **Re-sort `wishlist.csv` alphabetically by Artist** (case-insensitive) after addition
+- Update wishlist count in README
 
 ### Updating Collection Stats
 - Count total entries (excluding header row)
@@ -81,6 +88,7 @@ This document provides instructions for AI agents working on the Family Vinyl Co
 - **Preserve CSV formatting** - maintain exact field order and quoting style
 - **Be precise with disc counts** - multi-LP sets must be counted correctly
 - **Update wishlist count** whenever items are added or removed
+- **Maintain alphabetical order** - Both CSV files are sorted alphabetically by Artist (case-insensitive). After adding, removing, or modifying entries, re-sort the affected CSV file(s) to maintain alphabetical order
 
 ## 🎵 Genre Conventions
 
@@ -96,12 +104,14 @@ Agent:
 2. Reads wishlist.csv (checks if album is there)
 3. Adds entry to vinyl-collection.csv
 4. Removes from wishlist.csv if found
-5. Updates README.md:
+5. Re-sorts vinyl-collection.csv alphabetically by Artist
+6. Re-sorts wishlist.csv alphabetically by Artist (if item was removed)
+7. Updates README.md:
    - Increments Total Entries
    - Increments Total Discs
    - Adds to highlights if notable
    - Updates wishlist count if needed
-6. Confirms completion
+8. Confirms completion
 ```
 
 ---
