@@ -4,8 +4,8 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 39 albums
-- **Total Discs:** 59 vinyl records
+- **Total Entries:** 40 albums
+- **Total Discs:** 61 vinyl records
 - **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk
 - **Oldest Recording:** 1948 (Winnie The Pooh)
 - **Newest Recording:** 2024 (Kylie Minogue, K-Pop: Demon Hunters, Critical Role - Winter's Crest)
@@ -53,7 +53,8 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 - The Philadelphia Orchestra / Eugene Ormandy - *The Tchaikovsky Album* (7xLP box set)
 - Giuseppe Verdi / Riccardo Muti - *Aida* (3xLP box set)
 
-### Soundtracks
+### Soundtracks & Musicals
+- Various Artists - *The Phantom of the Opera (Original London Cast)* (1986, red vinyl limited edition)
 - Whitney Houston - *The Bodyguard (Original Soundtrack)* (1992)
 - Howard Shore - *The Lord of the Rings: The Two Towers*
 - *K-Pop: Demon Hunters* (Netflix)
@@ -70,12 +71,12 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎯 Wishlist Highlights
 
-**50 records** on the hunt list. Top 5 most wanted:
+**48 records** on the hunt list. Top 5 most wanted:
 
 1. Sia – *Everyday Is Christmas*
 2. Whitney Houston – *The Preacher's Wife* / *Waiting to Exhale*
 3. Garth Brooks – *Double Live* / *No Fences*
-4. *The Phantom of the Opera* – Original London or Broadway Cast
+4. Various Artists – *Rent (Original Broadway Cast Recording)*
 5. Frank Sinatra – *A Jolly Christmas from Frank Sinatra*
 
 ## 📝 Condition Grading
