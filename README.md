@@ -4,9 +4,9 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 40 albums
-- **Total Discs:** 61 vinyl records
-- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk
+- **Total Entries:** 44 albums
+- **Total Discs:** 66 vinyl records
+- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal
 - **Oldest Recording:** 1948 (Winnie The Pooh)
 - **Newest Recording:** 2024 (Kylie Minogue, K-Pop: Demon Hunters, Critical Role - Winter's Crest)
 
@@ -41,8 +41,9 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 - The Beatles - *The White Album* (1968)
 - Arlo Guthrie - *Alice's Restaurant* (1967)
 - Metallica - *...And Justice For All* (1988)
-- Opeth - *Still Life* (1999)
+- Opeth - *Blackwater Park* (2001) & *Still Life* (1999)
 - Silverchair - *Neon Ballroom* (1999)
+- Florence + The Machine - *How Big, How Blue, How Beautiful* (2015)
 
 ### Jazz & Vocal
 - Frank Sinatra - *Sinatra at the Sands* (1966, with Count Basie & The Orchestra)
@@ -50,6 +51,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 ### Classical
 - Academy of St. Martin in the Fields - Handel's *Messiah* (3xLP box set)
 - Craig Armstrong - *Nocturnes: Music for 2 Pianos*
+- Max Richter - *Sleep Circle* (Deutsche Grammophon)
 - The Philadelphia Orchestra / Eugene Ormandy - *The Tchaikovsky Album* (7xLP box set)
 - Giuseppe Verdi / Riccardo Muti - *Aida* (3xLP box set)
 
@@ -71,11 +73,11 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎯 Wishlist Highlights
 
-**48 records** on the hunt list. Top 5 most wanted:
+**47 records** on the hunt list. Top 5 most wanted:
 
 1. Sia – *Everyday Is Christmas*
 2. Whitney Houston – *The Preacher's Wife* / *Waiting to Exhale*
-3. Garth Brooks – *Double Live* / *No Fences*
+3. Various Artists – *Hamilton: Original Broadway Cast Recording*
 4. Various Artists – *Rent (Original Broadway Cast Recording)*
 5. Frank Sinatra – *A Jolly Christmas from Frank Sinatra*
 
