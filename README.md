@@ -4,8 +4,8 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 44 albums
-- **Total Discs:** 66 vinyl records
+- **Total Entries:** 45 albums
+- **Total Discs:** 67 vinyl records
 - **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal
 - **Oldest Recording:** 1948 (Winnie The Pooh)
 - **Newest Recording:** 2024 (Kylie Minogue, K-Pop: Demon Hunters, Critical Role - Winter's Crest)
@@ -58,6 +58,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 ### Soundtracks & Musicals
 - Various Artists - *The Phantom of the Opera (Original London Cast)* (1986, red vinyl limited edition)
 - Whitney Houston - *The Bodyguard (Original Soundtrack)* (1992)
+- Marc Shaiman - *Sister Act* (1992, Korea pressing)
 - Howard Shore - *The Lord of the Rings: The Two Towers*
 - *K-Pop: Demon Hunters* (Netflix)
 - Jerry Goldsmith - *Star Trek: The Motion Picture*

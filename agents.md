@@ -48,6 +48,8 @@ This document provides instructions for AI agents working on the Family Vinyl Co
 ### Condition Grading
 - **M** (Mint): Perfect, unplayed or still sealed
 - **NM** (Near Mint): Nearly perfect, minimal signs of handling
+
+**⚠️ IMPORTANT: Do NOT add new items as "M" (Mint)** - The user immediately opens and plays all new acquisitions, so new items should be added as "NM" (Near Mint) or lower depending on actual condition after playing.
 - **VG+** (Very Good Plus): Shows some play but sounds great
 - **VG** (Very Good): Light surface noise, light scratches
 - **G+** (Good Plus): Plays through with some noise
