@@ -4,9 +4,9 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 45 albums
-- **Total Discs:** 67 vinyl records
-- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal
+- **Total Entries:** 50 albums
+- **Total Discs:** 74 vinyl records
+- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal, Death Metal, Mathcore/Metal
 - **Oldest Recording:** 1948 (Winnie The Pooh)
 - **Newest Recording:** 2024 (Kylie Minogue, K-Pop: Demon Hunters, Critical Role - Winter's Crest)
 
@@ -35,15 +35,18 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 - Barbra Streisand - *A Christmas Album* (1967)
 - Various Artists - *A Very Special Christmas* (Keith Haring cover, 1987)
 - Critical Role - *Winter's Crest - A Holiday Album* (2024)
-- Sia - *Everyday Is Christmas Snowman EP* (2017, pink splatter vinyl)
+- Sia - *Everyday Is Christmas* (2017) & *Everyday Is Christmas Snowman EP* (2017, pink splatter vinyl)
 
 ### Rock & Metal
 - The Beatles - *The White Album* (1968)
 - Arlo Guthrie - *Alice's Restaurant* (1967)
-- Metallica - *...And Justice For All* (1988)
+- Metallica - *...And Justice For All* (1988) & *S&M* (1999, with San Francisco Symphony)
 - Opeth - *Blackwater Park* (2001) & *Still Life* (1999)
 - Silverchair - *Neon Ballroom* (1999)
 - Florence + The Machine - *How Big, How Blue, How Beautiful* (2015)
+- Bloodbath - *Unblessing The Purity* (2008)
+- The Dillinger Escape Plan - *Calculating Infinity* (1999)
+- Jinjer - *Macro* (2019)
 
 ### Jazz & Vocal
 - Frank Sinatra - *Sinatra at the Sands* (1966, with Count Basie & The Orchestra)
@@ -74,13 +77,13 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎯 Wishlist Highlights
 
-**47 records** on the hunt list. Top 5 most wanted:
+**45 records** on the hunt list. Top 5 most wanted:
 
-1. Sia – *Everyday Is Christmas*
-2. Whitney Houston – *The Preacher's Wife* / *Waiting to Exhale*
-3. Various Artists – *Hamilton: Original Broadway Cast Recording*
-4. Various Artists – *Rent (Original Broadway Cast Recording)*
-5. Frank Sinatra – *A Jolly Christmas from Frank Sinatra*
+1. Whitney Houston – *The Preacher's Wife* / *Waiting to Exhale*
+2. Various Artists – *Hamilton: Original Broadway Cast Recording*
+3. Various Artists – *Rent (Original Broadway Cast Recording)*
+4. Frank Sinatra – *A Jolly Christmas from Frank Sinatra*
+5. The Philadelphia Orchestra / Eugene Ormandy – *Verdi: Requiem* / *Mahler: Symphony No. 2*
 
 ## 📝 Condition Grading
 
