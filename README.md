@@ -77,7 +77,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎯 Wishlist Highlights
 
-**45 records** on the hunt list. Top 5 most wanted:
+**48 records** on the hunt list. Top 5 most wanted:
 
 1. Whitney Houston – *The Preacher's Wife* / *Waiting to Exhale*
 2. Various Artists – *Hamilton: Original Broadway Cast Recording*
