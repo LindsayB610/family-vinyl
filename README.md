@@ -4,11 +4,10 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 50 albums
-- **Total Discs:** 74 vinyl records
-- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal, Death Metal, Mathcore/Metal
-- **Oldest Recording:** 1948 (Winnie The Pooh)
-- **Newest Recording:** 2024 (Kylie Minogue, K-Pop: Demon Hunters, Critical Role - Winter's Crest)
+- **Total Entries:** 63 albums
+- **Total Discs:** 93 vinyl records
+- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal, Death Metal, Mathcore/Metal, Pop/Soul, Indie/Pop, Soundtrack/Pop
+- **Oldest Recording:** 1619 (Michael Praetorius - Polychoral Christmas Music)
 
 ## 📁 Data Format
 
@@ -29,51 +28,23 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎼 Collection Highlights
 
-### Holiday Classics
-- The Philadelphia Orchestra / Eugene Ormandy - *The Glorious Sound of Christmas* (1962)
-- Bing Crosby & Columbus Boychoir - *Family Christmas Favorites*
-- Barbra Streisand - *A Christmas Album* (1967)
-- Various Artists - *A Very Special Christmas* (Keith Haring cover, 1987)
-- Critical Role - *Winter's Crest - A Holiday Album* (2024)
-- Sia - *Everyday Is Christmas* (2017) & *Everyday Is Christmas Snowman EP* (2017, pink splatter vinyl)
+1. The Beatles - *The White Album* (1968)
+2. Metallica - *S&M* (1999, with San Francisco Symphony)
+3. The Philadelphia Orchestra / Eugene Ormandy - *The Tchaikovsky Album* (7xLP box set, 1972)
+4. Michael Praetorius - *Polychoral Christmas Music* (1619)
+5. Adele - *21* (2011)
 
-### Rock & Metal
-- The Beatles - *The White Album* (1968)
-- Arlo Guthrie - *Alice's Restaurant* (1967)
-- Metallica - *...And Justice For All* (1988) & *S&M* (1999, with San Francisco Symphony)
-- Opeth - *Blackwater Park* (2001) & *Still Life* (1999)
-- Silverchair - *Neon Ballroom* (1999)
-- Florence + The Machine - *How Big, How Blue, How Beautiful* (2015)
-- Bloodbath - *Unblessing The Purity* (2008)
-- The Dillinger Escape Plan - *Calculating Infinity* (1999)
-- Jinjer - *Macro* (2019)
+## 🆕 Newest Additions
 
-### Jazz & Vocal
-- Frank Sinatra - *Sinatra at the Sands* (1966, with Count Basie & The Orchestra)
-
-### Classical
-- Academy of St. Martin in the Fields - Handel's *Messiah* (3xLP box set)
-- Craig Armstrong - *Nocturnes: Music for 2 Pianos*
-- Max Richter - *Sleep Circle* (Deutsche Grammophon)
-- The Philadelphia Orchestra / Eugene Ormandy - *The Tchaikovsky Album* (7xLP box set)
-- Giuseppe Verdi / Riccardo Muti - *Aida* (3xLP box set)
-
-### Soundtracks & Musicals
-- Various Artists - *The Phantom of the Opera (Original London Cast)* (1986, red vinyl limited edition)
-- Whitney Houston - *The Bodyguard (Original Soundtrack)* (1992)
-- Marc Shaiman - *Sister Act* (1992, Korea pressing)
-- Howard Shore - *The Lord of the Rings: The Two Towers*
-- *K-Pop: Demon Hunters* (Netflix)
-- Jerry Goldsmith - *Star Trek: The Motion Picture*
-- James Horner - *Star Trek III: The Search for Spock*
-
-### Country
-- Crystal Gayle - *Classic Crystal* (1979)
-- Garth Brooks - *White Out* (1998)
-
-### Children's
-- Frank Luther - *Winnie The Pooh and Christopher Robin* (1948)
-- The Peppermint Kandy Kids - *Frosty The Snowman* & *Rudolph*
+- Adele - *21* (2011)
+- Lorde - *Pure Heroine* (2013)
+- Sia - *Reasonable Woman* (2024)
+- Various Artists - *We Love Disney* (2015)
+- Hector Berlioz / Charles Munch / Boston Symphony Orchestra - *Berlioz: Requiem* (1837)
+- Ludwig van Beethoven / Eugene Ormandy / Philadelphia Orchestra / Mormon Tabernacle Choir - *Beethoven: Symphony No. 9* (1824)
+- Jean Sibelius / Colin Davis / Boston Symphony Orchestra - *Sibelius: The 7 Symphonies* (1899–1924)
+- Carl Orff / André Previn / London Symphony Orchestra - *Carmina Burana* (1937)
+- Richard Strauss / Eugene Ormandy / Philadelphia Orchestra - *Also sprach Zarathustra* (1896)
 
 ## 🎯 Wishlist Highlights
 
@@ -87,16 +58,36 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 📝 Condition Grading
 
-We use standard vinyl grading:
+Standard gradings:
 
-| Grade | Description |
-|-------|-------------|
-| **M** (Mint) | Perfect, unplayed or still sealed |
-| **NM** (Near Mint) | Nearly perfect, minimal signs of handling |
-| **VG+** (Very Good Plus) | Shows some play but sounds great |
-| **VG** (Very Good) | Light surface noise, light scratches |
-| **G+** (Good Plus) | Plays through with some noise |
-| **G** (Good) | Significant wear but playable |
+**M — Mint**
+- Unplayed, flawless, usually sealed.
+- If it's been played, it's not M.
+
+**NM — Near Mint**
+- Looks and plays almost new.
+- Maybe one faint hairline if you squint.
+- No distracting noise.
+
+**VG+ — Very Good Plus**
+- Light wear visible.
+- Plays clean with minor noise.
+- Music always wins.
+
+**VG — Very Good**
+- Clearly played.
+- Surface noise is noticeable but tolerable.
+- No skips.
+
+**G+ — Good Plus**
+- Heavy wear.
+- Constant noise, but plays through.
+- You bought it for the music or the price.
+
+**G — Good**
+- Rough shape.
+- Loud crackle, maybe skips.
+- Playable, but not pleasant.
 
 ---
 
