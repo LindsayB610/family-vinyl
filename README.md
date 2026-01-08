@@ -48,13 +48,13 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎯 Wishlist Highlights
 
-**48 records** on the hunt list. Top 5 most wanted:
+**62 records** on the hunt list. Top 5 most wanted:
 
-1. Whitney Houston – *The Preacher's Wife* / *Waiting to Exhale*
-2. Various Artists – *Hamilton: Original Broadway Cast Recording*
-3. Various Artists – *Rent (Original Broadway Cast Recording)*
-4. Frank Sinatra – *A Jolly Christmas from Frank Sinatra*
-5. The Philadelphia Orchestra / Eugene Ormandy – *Verdi: Requiem* / *Mahler: Symphony No. 2*
+1. Celine Dion – *Falling Into You*: Ultimate belter album; long builds and catastrophic payoff; instant repeat spin.
+2. Breaking Benjamin – *Phobia*: Melodic heavy rock with huge choruses; emotional and cathartic without chaos.
+3. Whitney Houston – *Whitney*: Peak studio belting; pure voice, zero filler, perfect vinyl showcase.
+4. Evanescence – *The Open Door*: Darker, more orchestral rock; dramatic and immersive step beyond Fallen.
+5. Kelly Clarkson – *Breakaway*: Anthem after anthem; sincere, accessible, and endlessly replayable.
 
 ## 📝 Condition Grading
 
