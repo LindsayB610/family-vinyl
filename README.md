@@ -49,7 +49,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎯 Wishlist Highlights
 
-**79 records** on the hunt list. Top 5 most wanted:
+**85 records** on the hunt list. Top 5 most wanted:
 
 1. Celine Dion – *Falling Into You*: Ultimate belter album; long builds and catastrophic payoff; instant repeat spin.
 2. Breaking Benjamin – *Phobia*: Melodic heavy rock with huge choruses; emotional and cathartic without chaos.
