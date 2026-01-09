@@ -31,7 +31,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 1. The Beatles - *The White Album* (1968)
 2. Metallica - *S&M* (1999, with San Francisco Symphony)
 3. The Philadelphia Orchestra / Eugene Ormandy - *The Tchaikovsky Album* (7xLP box set, 1972)
-4. Michael Praetorius - *Polychoral Christmas Music* (1619)
+4. Camille Saint-Saëns / Eugene Ormandy / Philadelphia Orchestra / E. Power Biggs - *Symphony No. 3 'Organ'* (1886)
 5. Adele - *21* (2011)
 
 ## 🆕 Newest Additions
@@ -44,6 +44,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 - Ludwig van Beethoven / Eugene Ormandy / Philadelphia Orchestra / Mormon Tabernacle Choir - *Beethoven: Symphony No. 9* (1824)
 - Jean Sibelius / Colin Davis / Boston Symphony Orchestra - *Sibelius: The 7 Symphonies* (1899–1924)
 - Carl Orff / André Previn / London Symphony Orchestra - *Carmina Burana* (1937)
+- Camille Saint-Saëns / Eugene Ormandy / Philadelphia Orchestra / E. Power Biggs - *Symphony No. 3 'Organ'* (1886)
 - Richard Strauss / Eugene Ormandy / Philadelphia Orchestra - *Also sprach Zarathustra* (1896)
 
 ## 🎯 Wishlist Highlights
