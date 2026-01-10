@@ -4,9 +4,9 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 63 albums
-- **Total Discs:** 93 vinyl records
-- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal, Death Metal, Mathcore/Metal, Pop/Soul, Indie/Pop, Soundtrack/Pop
+- **Total Entries:** 62 albums
+- **Total Discs:** 92 vinyl records
+- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal, Death Metal, Pop/Soul, Indie/Pop, Soundtrack/Pop
 - **Oldest Recording:** 1619 (Michael Praetorius - Polychoral Christmas Music)
 
 ## 📁 Data Format
@@ -49,7 +49,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎯 Wishlist Highlights
 
-**90 records** on the hunt list. Top 5 most wanted:
+**91 records** on the hunt list. Top 5 most wanted:
 
 1. Celine Dion – *Falling Into You*: Ultimate belter album; long builds and catastrophic payoff; instant repeat spin.
 2. Breaking Benjamin – *Phobia*: Melodic heavy rock with huge choruses; emotional and cathartic without chaos.
