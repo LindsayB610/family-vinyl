@@ -4,9 +4,9 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 62 albums
-- **Total Discs:** 92 vinyl records
-- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal, Death Metal, Pop/Soul, Indie/Pop, Soundtrack/Pop
+- **Total Entries:** 77 albums
+- **Total Discs:** 109 vinyl records
+- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal, Death Metal, Pop/Soul, Indie/Pop, Soundtrack/Pop, Classical/Choral
 - **Oldest Recording:** 1619 (Michael Praetorius - Polychoral Christmas Music)
 
 ## 📁 Data Format
@@ -36,20 +36,25 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🆕 Newest Additions
 
-- Adele - *21* (2011)
-- Lorde - *Pure Heroine* (2013)
-- Sia - *Reasonable Woman* (2024)
-- Various Artists - *We Love Disney* (2015)
-- Hector Berlioz / Charles Munch / Boston Symphony Orchestra - *Berlioz: Requiem* (1837)
-- Ludwig van Beethoven / Eugene Ormandy / Philadelphia Orchestra / Mormon Tabernacle Choir - *Beethoven: Symphony No. 9* (1824)
-- Jean Sibelius / Colin Davis / Boston Symphony Orchestra - *Sibelius: The 7 Symphonies* (1899–1924)
-- Carl Orff / André Previn / London Symphony Orchestra - *Carmina Burana* (1937)
-- Camille Saint-Saëns / Eugene Ormandy / Philadelphia Orchestra / E. Power Biggs - *Symphony No. 3 'Organ'* (1886)
-- Richard Strauss / Eugene Ormandy / Philadelphia Orchestra - *Also sprach Zarathustra* (1896)
+- David Bowie - *The Rise and Fall of Ziggy Stardust and the Spiders from Mars* (1972)
+- Talking Heads - *Speaking in Tongues* (1983)
+- Dire Straits - *Brothers in Arms* (1985)
+- Giuseppe Verdi - *Requiem* (1874, 2xLP)
+- Sergei Rachmaninoff - *Piano Concerto No. 2 / Franz Liszt Piano Concerto No. 1* (1901)
+- Wolfgang Amadeus Mozart - *Symphony No. 40 / Symphony No. 41 "Jupiter"* (1788)
+- Wolfgang Amadeus Mozart - *Piano Concertos Nos. 20 & 24* (1785)
+- Johannes Brahms - *Piano Concerto No. 2* (1881)
+- Ludwig van Beethoven - *Piano Concerto No. 5 "Emperor"* (1809)
+- Camille Saint-Saëns / Édouard Lalo / Gabriel Fauré - *Cello Concerto No. 1 / Cello Concerto / Élégie* (1872)
+- Antonín Dvořák - *Symphony No. 5 "From the New World"* (1893)
+- Jean Sibelius - *Symphony No. 4 / Valse triste* (1911)
+- Pyotr Ilyich Tchaikovsky - *Suite No. 3 Op. 55* (1884)
+- Hector Berlioz / Pyotr Ilyich Tchaikovsky / Sergei Prokofiev - *Romeo and Juliet* (1869)
+- Various Artists - *Four Favorite Violin Concertos* (1806)
 
 ## 🎯 Wishlist Highlights
 
-**91 records** on the hunt list. Top 5 most wanted:
+**83 records** on the hunt list. Top 5 most wanted:
 
 1. Celine Dion – *Falling Into You*: Ultimate belter album; long builds and catastrophic payoff; instant repeat spin.
 2. Breaking Benjamin – *Phobia*: Melodic heavy rock with huge choruses; emotional and cathartic without chaos.
