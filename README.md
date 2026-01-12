@@ -46,7 +46,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 - Johannes Brahms - *Piano Concerto No. 2* (1881)
 - Ludwig van Beethoven - *Piano Concerto No. 5 "Emperor"* (1809)
 - Camille Saint-Saëns / Édouard Lalo / Gabriel Fauré - *Cello Concerto No. 1 / Cello Concerto / Élégie* (1872)
-- Antonín Dvořák - *Symphony No. 5 "From the New World"* (1893)
+- Various Artists - *JCPenney Presents: The Brightest Stars of Christmas* (1974)
 - Jean Sibelius - *Symphony No. 4 / Valse triste* (1911)
 - Pyotr Ilyich Tchaikovsky - *Suite No. 3 Op. 55* (1884)
 - Hector Berlioz / Pyotr Ilyich Tchaikovsky / Sergei Prokofiev - *Romeo and Juliet* (1869)
