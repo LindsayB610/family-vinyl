@@ -4,8 +4,8 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 77 albums
-- **Total Discs:** 109 vinyl records
+- **Total Entries:** 80 albums
+- **Total Discs:** 111 vinyl records
 - **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal, Death Metal, Pop/Soul, Indie/Pop, Soundtrack/Pop, Classical/Choral
 - **Oldest Recording:** 1619 (Michael Praetorius - Polychoral Christmas Music)
 
@@ -36,6 +36,8 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🆕 Newest Additions
 
+- Jean Sibelius - *Symphony No. 2* (1902, Concertgebouw/Szell)
+- Camille Saint-Saëns / Henri Vieuxtemps - *Violin Concerto No. 3 / Violin Concerto No. 5* (1879, Kyung-Wha Chung)
 - David Bowie - *The Rise and Fall of Ziggy Stardust and the Spiders from Mars* (1972)
 - Talking Heads - *Speaking in Tongues* (1983)
 - Dire Straits - *Brothers in Arms* (1985)
