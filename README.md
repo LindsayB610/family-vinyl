@@ -4,8 +4,8 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 80 albums
-- **Total Discs:** 111 vinyl records
+- **Total Entries:** 81 albums
+- **Total Discs:** 112 vinyl records
 - **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal, Death Metal, Pop/Soul, Indie/Pop, Soundtrack/Pop, Classical/Choral
 - **Oldest Recording:** 1619 (Michael Praetorius - Polychoral Christmas Music)
 
@@ -36,23 +36,9 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🆕 Newest Additions
 
+- Imagine Dragons - *Night Visions* (2012)
 - Jean Sibelius - *Symphony No. 2* (1902, Concertgebouw/Szell)
 - Camille Saint-Saëns / Henri Vieuxtemps - *Violin Concerto No. 3 / Violin Concerto No. 5* (1879, Kyung-Wha Chung)
-- David Bowie - *The Rise and Fall of Ziggy Stardust and the Spiders from Mars* (1972)
-- Talking Heads - *Speaking in Tongues* (1983)
-- Dire Straits - *Brothers in Arms* (1985)
-- Giuseppe Verdi - *Requiem* (1874, 2xLP)
-- Sergei Rachmaninoff - *Piano Concerto No. 2 / Franz Liszt Piano Concerto No. 1* (1901)
-- Wolfgang Amadeus Mozart - *Symphony No. 40 / Symphony No. 41 "Jupiter"* (1788)
-- Wolfgang Amadeus Mozart - *Piano Concertos Nos. 20 & 24* (1785)
-- Johannes Brahms - *Piano Concerto No. 2* (1881)
-- Ludwig van Beethoven - *Piano Concerto No. 5 "Emperor"* (1809)
-- Camille Saint-Saëns / Édouard Lalo / Gabriel Fauré - *Cello Concerto No. 1 / Cello Concerto / Élégie* (1872)
-- Various Artists - *JCPenney Presents: The Brightest Stars of Christmas* (1974)
-- Jean Sibelius - *Symphony No. 4 / Valse triste* (1911)
-- Pyotr Ilyich Tchaikovsky - *Suite No. 3 Op. 55* (1884)
-- Hector Berlioz / Pyotr Ilyich Tchaikovsky / Sergei Prokofiev - *Romeo and Juliet* (1869)
-- Various Artists - *Four Favorite Violin Concertos* (1806)
 
 ## 🎯 Wishlist Highlights
 
