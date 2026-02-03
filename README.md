@@ -4,8 +4,8 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 81 albums
-- **Total Discs:** 112 vinyl records
+- **Total Entries:** 82 albums
+- **Total Discs:** 113 vinyl records
 - **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal, Death Metal, Pop/Soul, Indie/Pop, Soundtrack/Pop, Classical/Choral
 - **Oldest Recording:** 1619 (Michael Praetorius - Polychoral Christmas Music)
 
@@ -36,6 +36,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🆕 Newest Additions
 
+- Imagine Dragons - *Evolve* (2017)
 - Imagine Dragons - *Night Visions* (2012)
 - Jean Sibelius - *Symphony No. 2* (1902, Concertgebouw/Szell)
 - Camille Saint-Saëns / Henri Vieuxtemps - *Violin Concerto No. 3 / Violin Concerto No. 5* (1879, Kyung-Wha Chung)
