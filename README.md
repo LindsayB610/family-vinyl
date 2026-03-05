@@ -4,8 +4,8 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 82 albums
-- **Total Discs:** 113 vinyl records
+- **Total Entries:** 89 albums
+- **Total Discs:** 121 vinyl records
 - **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal, Death Metal, Pop/Soul, Indie/Pop, Soundtrack/Pop, Classical/Choral
 - **Oldest Recording:** 1619 (Michael Praetorius - Polychoral Christmas Music)
 
@@ -36,10 +36,13 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🆕 Newest Additions
 
-- Imagine Dragons - *Evolve* (2017)
-- Imagine Dragons - *Night Visions* (2012)
-- Jean Sibelius - *Symphony No. 2* (1902, Concertgebouw/Szell)
-- Camille Saint-Saëns / Henri Vieuxtemps - *Violin Concerto No. 3 / Violin Concerto No. 5* (1879, Kyung-Wha Chung)
+- Lorde - *Virgin* (2025)
+- Billie Eilish - *When We All Fall Asleep, Where Do We Go?* (2019)
+- Sufjan Stevens - *Carrie & Lowell* (2015)
+- Joff Bush & The Bluey Music Team - *Dance Mode!* (2023)
+- Lady Gaga - *Chromatica* (2020)
+- Steely Dan - *Aja* (1977, Geffen reissue)
+- The Philadelphia Orchestra / Eugene Ormandy - *A Tchaikovsky Treasury* (2xLP, RCA)
 
 ## 🎯 Wishlist Highlights
 
@@ -86,5 +89,5 @@ Standard gradings:
 
 ---
 
-*Last updated: January 2026*
+*Last updated: March 2026*
 
