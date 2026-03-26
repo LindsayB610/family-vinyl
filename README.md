@@ -4,8 +4,8 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 89 albums
-- **Total Discs:** 121 vinyl records
+- **Total Entries:** 102 albums
+- **Total Discs:** 141 vinyl records
 - **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal, Death Metal, Pop/Soul, Indie/Pop, Soundtrack/Pop, Classical/Choral
 - **Oldest Recording:** 1619 (Michael Praetorius - Polychoral Christmas Music)
 
@@ -30,12 +30,26 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 1. The Beatles - *The White Album* (1968)
 2. Metallica - *S&M* (1999, with San Francisco Symphony)
-3. The Philadelphia Orchestra / Eugene Ormandy - *The Tchaikovsky Album* (7xLP box set, 1972)
-4. Camille Saint-Saëns / Eugene Ormandy / Philadelphia Orchestra / E. Power Biggs - *Symphony No. 3 'Organ'* (1886)
-5. Adele - *21* (2011)
+3. Opeth - *In Live Concert at the Royal Albert Hall* (4xLP live box set, 2010)
+4. The Philadelphia Orchestra / Eugene Ormandy - *The Tchaikovsky Album* (7xLP box set, 1972)
+5. Camille Saint-Saëns / Eugene Ormandy / Philadelphia Orchestra / E. Power Biggs - *Symphony No. 3 'Organ'* (1886)
+6. Adele - *21* (2011)
 
 ## 🆕 Newest Additions
 
+- Taylor Swift - *The Tortured Poets Department* (opaque white vinyl, 2xLP, 2024)
+- Andrew Lloyd Webber & Tim Rice - *Evita* (Original London Cast; MCA, 1976, 2xLP)
+- Angelo Branduardi - *Fables and Fantasies* (Musiza, 1979)
+- Béla Bartók - *Piano Concerto No. 2* (Weissenberg / Ormandy / Philadelphia; RCA Red Seal, 1970)
+- Antonín Dvořák / Alain Lombard / Strasbourg Philharmonic Orchestra - *Symphony No. 9 "From the New World"* (Erato, 1978)
+- Hector Berlioz / Sir John Barbirolli / Hallé Orchestra - *Symphonie fantastique* (EMI Studio 2 Stereo, 1965)
+- Hector Berlioz / Eugene Ormandy / Philadelphia Orchestra - *Berlioz: Requiem* (Columbia Masterworks, 2xLP)
+- George Frideric Handel - *Organ Concertos* (Walter Kraft / Eva Hölderlin; Vox VSPS 6/5)
+- Johannes Brahms - *Piano Concerto No. 1* (Gary Graffman / Charles Munch / Boston Symphony; RCA Victrola, 1965)
+- Michael Jackson - *Number Ones* (2xLP, 2003 album; 2026 pressing)
+- Johannes Brahms / Pierre Monteux / Vienna Philharmonic Orchestra - *Symphony No. 2* (RCA Victrola, 1963)
+- Opeth - *In Live Concert at the Royal Albert Hall* (4xLP live, 2010)
+- Lorde - *Melodrama* (2017)
 - Lorde - *Virgin* (2025)
 - Billie Eilish - *When We All Fall Asleep, Where Do We Go?* (2019)
 - Sufjan Stevens - *Carrie & Lowell* (2015)
