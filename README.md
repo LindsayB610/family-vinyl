@@ -51,7 +51,7 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🎯 Wishlist Highlights
 
-**84 records** on the hunt list. Top 5 most wanted:
+**85 records** on the hunt list. Top 5 most wanted:
 
 1. John Williams - *Star Wars Episode IV: "Original Motion Picture Soundtrack"*: 🔥🔥 INSTANT BUY; where the saga's musical DNA comes from; Main Title alone is one of the greatest film themes ever written; triumphant, grand, instantly recognizable; key tracks: Main Title, Princess Leia's Theme, The Throne Room / End Title
 2. Mahler - *Symphony No. 8 "Symphony of a Thousand"*: 🔥🔥 INSTANT BUY; pure excess; enormous forces; choir everywhere; ecstatic, terrifying, overwhelming; not subtle—that's the point
