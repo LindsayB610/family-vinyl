@@ -5,9 +5,9 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 ## 📊 Collection Stats
 
 - **Total Entries:** 102 albums
-- **Total Discs:** 141 vinyl records
-- **Genres:** Pop, Rock, Classical, Holiday, Metal, Soundtracks, Children's, Jazz, Spoken Word, Opera, Country, Alternative Rock, Folk, Indie/Rock, Contemporary Classical/Ambient, Progressive Metal, Death Metal, Pop/Soul, Indie/Pop, Soundtrack/Pop, Classical/Choral
-- **Oldest Recording:** 1619 (Michael Praetorius - Polychoral Christmas Music)
+- **Total Discs:** 143 vinyl records
+- **Genres:** Classical, Pop, Soul, Musical, Soundtrack, Folk, Indie, Rock, Holiday, Vocal, Death Metal, Choral, Contemporary Classical, Country, Soft Rock, Children's, Spoken Word, Jazz, Opera, Progressive Metal, Dance, Ambient, Thrash Metal, Metal, Orchestral, R&B, Alternative Rock, K-Pop
+- **Oldest Recording:** 1619
 
 ## 📁 Data Format
 
@@ -26,47 +26,38 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 | Condition | M (Mint), NM (Near Mint), VG+ (Very Good Plus), VG (Very Good), G+ (Good Plus), G (Good) |
 | Notes | Special features, track highlights, etc. |
 
-## 🎼 Collection Highlights
-
-1. The Beatles - *The White Album* (1968)
-2. Metallica - *S&M* (1999, with San Francisco Symphony)
-3. Opeth - *In Live Concert at the Royal Albert Hall* (4xLP live box set, 2010)
-4. The Philadelphia Orchestra / Eugene Ormandy - *The Tchaikovsky Album* (7xLP box set, 1972)
-5. Camille Saint-Saëns / Eugene Ormandy / Philadelphia Orchestra / E. Power Biggs - *Symphony No. 3 'Organ'* (1886)
-6. Adele - *21* (2011)
-
 ## 🆕 Newest Additions
 
-- Taylor Swift - *The Tortured Poets Department* (opaque white vinyl, 2xLP, 2024)
-- Andrew Lloyd Webber & Tim Rice - *Evita* (Original London Cast; MCA, 1976, 2xLP)
-- Angelo Branduardi - *Fables and Fantasies* (Musiza, 1979)
-- Béla Bartók - *Piano Concerto No. 2* (Weissenberg / Ormandy / Philadelphia; RCA Red Seal, 1970)
-- Antonín Dvořák / Alain Lombard / Strasbourg Philharmonic Orchestra - *Symphony No. 9 "From the New World"* (Erato, 1978)
-- Hector Berlioz / Sir John Barbirolli / Hallé Orchestra - *Symphonie fantastique* (EMI Studio 2 Stereo, 1965)
-- Hector Berlioz / Eugene Ormandy / Philadelphia Orchestra - *Berlioz: Requiem* (Columbia Masterworks, 2xLP)
-- George Frideric Handel - *Organ Concertos* (Walter Kraft / Eva Hölderlin; Vox VSPS 6/5)
-- Johannes Brahms - *Piano Concerto No. 1* (Gary Graffman / Charles Munch / Boston Symphony; RCA Victrola, 1965)
-- Michael Jackson - *Number Ones* (2xLP, 2003 album; 2026 pressing)
-- Johannes Brahms / Pierre Monteux / Vienna Philharmonic Orchestra - *Symphony No. 2* (RCA Victrola, 1963)
-- Opeth - *In Live Concert at the Royal Albert Hall* (4xLP live, 2010)
-- Lorde - *Melodrama* (2017)
-- Lorde - *Virgin* (2025)
-- Billie Eilish - *When We All Fall Asleep, Where Do We Go?* (2019)
-- Sufjan Stevens - *Carrie & Lowell* (2015)
-- Joff Bush & The Bluey Music Team - *Dance Mode!* (2023)
-- Lady Gaga - *Chromatica* (2020)
-- Steely Dan - *Aja* (1977, Geffen reissue)
-- The Philadelphia Orchestra / Eugene Ormandy - *A Tchaikovsky Treasury* (2xLP, RCA)
+- Wolfgang Amadeus Mozart - *Piano Concertos Nos. 20 & 24* (Vanguard Everyman Classics; Denis Matthews; Vienna State Opera Orchestra; Hans Swarowsky)
+- Wolfgang Amadeus Mozart - *Symphony No. 40 / Symphony No. 41 "Jupiter"* (London / Jubilee; Carlo Maria Giulini; New Philharmonia Orchestra)
+- Whitney Houston - *The Bodyguard (Original Soundtrack)* (Standard black vinyl, 2020s)
+- Various Artists - *JCPenney Presents: The Brightest Stars of Christmas* (Standard black vinyl RCA Dynaflex (department store compilation), 1974)
+- Various Artists - *Four Favorite Violin Concertos* (Columbia Masterworks; Isaac Stern; Bernstein / Ormandy; NY Philharmonic / Philadelphia Orchestra)
+- Various Artists - *We Love Disney* (Standard black vinyl Walt Disney Records, 2015)
+- Various Artists - *The Phantom of the Opera (Original London Cast)* (North American Limited Edition red vinyl, 2020s)
+- Various Artists - *K-Pop: Demon Hunters (Soundtrack)* (Standard black vinyl, 2024)
+- Various Artists - *Calm Christmas* (180g black vinyl Warner Classics, 2023)
+- Various Artists - *A Very Special Christmas* (Standard black vinyl A&M/UMe, 2020s)
+- Various Artists - *A Christmas Carol by Charles Dickens* (Standard black vinyl Jabberwocky, 1973)
+- The Philadelphia Orchestra / Eugene Ormandy - *The Tchaikovsky Album* (Standard black vinyl Columbia Masterworks box set, 1970s)
+- The Philadelphia Orchestra / Eugene Ormandy - *The Glorious Sound of Christmas* (Standard black vinyl Columbia Masterworks, 1960s)
+- The Philadelphia Orchestra / Eugene Ormandy - *A Tchaikovsky Treasury* (RCA R-24589-2-C, 1970s)
+- The Philadelphia Orchestra / Eugene Ormandy - *A Christmas Festival* (Standard black vinyl Columbia Masterworks, 1960s)
+- The Peppermint Kandy Kids - *Rudolph The Red Nosed Reindeer* (Standard black vinyl Peter Pan Records, 1970s)
+- The Peppermint Kandy Kids - *Frosty The Snowman* (Standard black vinyl Peter Pan Records, 1970s)
+- The Mormon Tabernacle Choir - *Christmas Carols Around the World* (Standard black vinyl Columbia Limited Edition, 1970s)
+- The Beatles - *The Beatles (White Album)* (Standard black vinyl Apple/Universal, 2018)
+- Taylor Swift - *The Tortured Poets Department* (Opaque white vinyl Republic, 2024)
 
 ## 🎯 Wishlist Highlights
 
 **84 records** on the hunt list. Top 5 most wanted:
 
-1. Celine Dion – *Falling Into You*: Ultimate belter album; long builds and catastrophic payoff; instant repeat spin.
-2. Breaking Benjamin – *Phobia*: Melodic heavy rock with huge choruses; emotional and cathartic without chaos.
-3. Whitney Houston – *Whitney*: Peak studio belting; pure voice, zero filler, perfect vinyl showcase.
-4. Evanescence – *The Open Door*: Darker, more orchestral rock; dramatic and immersive step beyond Fallen.
-5. Kelly Clarkson – *Breakaway*: Anthem after anthem; sincere, accessible, and endlessly replayable.
+1. John Williams - *Star Wars Episode IV: "Original Motion Picture Soundtrack"*: 🔥🔥 INSTANT BUY; where the saga's musical DNA comes from; Main Title alone is one of the greatest film themes ever written; triumphant, grand, instantly recognizable; key tracks: Main Title, Princess Leia's Theme, The Throne Room / End Title
+2. Mahler - *Symphony No. 8 "Symphony of a Thousand"*: 🔥🔥 INSTANT BUY; pure excess; enormous forces; choir everywhere; ecstatic, terrifying, overwhelming; not subtle—that's the point
+3. The Philadelphia Orchestra / Eugene Ormandy - *Orff: Carmina Burana*: 🔥🔥 INSTANT BUY; Glorious Sound gene turned up to 11; huge chorus; percussion-driven; dark → ecstatic → thunderous; absolutely feral on vinyl
+4. Various Artists - *Star Trek: Deep Space Nine (Main Title / End Title)*: 🦄 UNICORN; instant buy if found
+5. Breaking Benjamin - *Phobia*: 🔥 TOP PRIORITY; melodic heavy rock with huge choruses; includes The Diary of Jane, Breath, Until the End
 
 ## 📝 Condition Grading
 
@@ -103,5 +94,4 @@ Standard gradings:
 
 ---
 
-*Last updated: March 2026*
-
+*Last updated: April 2026*
