@@ -4,9 +4,9 @@ A catalog of our family's vinyl record collection, spanning decades of music fro
 
 ## 📊 Collection Stats
 
-- **Total Entries:** 102 albums
-- **Total Discs:** 143 vinyl records
-- **Genres:** Classical, Pop, Soul, Musical, Soundtrack, Folk, Indie, Rock, Holiday, Vocal, Death Metal, Choral, Contemporary Classical, Country, Soft Rock, Children's, Spoken Word, Jazz, Opera, Progressive Metal, Dance, Ambient, Thrash Metal, Metal, Orchestral, R&B, Alternative Rock, K-Pop
+- **Total Entries:** 104 albums
+- **Total Discs:** 145 vinyl records
+- **Genres:** Classical, Pop, Soul, Musical, Soundtrack, Folk, Indie, Rock, Holiday, Vocal, Death Metal, Choral, Contemporary Classical, Country, Soft Rock, Children's, Spoken Word, Jazz, Opera, Progressive Metal, Dance, Ambient, Thrash Metal, Metal, Orchestral, R&B, Alternative Rock, Art Rock, K-Pop
 - **Oldest Recording:** 1619
 
 ## 📁 Data Format
@@ -28,14 +28,15 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 
 ## 🆕 Newest Additions
 
-- Wolfgang Amadeus Mozart - *Piano Concertos Nos. 20 & 24* (Vanguard Everyman Classics; Denis Matthews; Vienna State Opera Orchestra; Hans Swarowsky)
+- Fleetwood Mac - *Rumours*
 - Wolfgang Amadeus Mozart - *Symphony No. 40 / Symphony No. 41 "Jupiter"* (London / Jubilee; Carlo Maria Giulini; New Philharmonia Orchestra)
+- Wolfgang Amadeus Mozart - *Piano Concertos Nos. 20 & 24* (Vanguard Everyman Classics; Denis Matthews; Vienna State Opera Orchestra; Hans Swarowsky)
 - Whitney Houston - *The Bodyguard (Original Soundtrack)* (Standard black vinyl, 2020s)
-- Various Artists - *JCPenney Presents: The Brightest Stars of Christmas* (Standard black vinyl RCA Dynaflex (department store compilation), 1974)
-- Various Artists - *Four Favorite Violin Concertos* (Columbia Masterworks; Isaac Stern; Bernstein / Ormandy; NY Philharmonic / Philadelphia Orchestra)
 - Various Artists - *We Love Disney* (Standard black vinyl Walt Disney Records, 2015)
 - Various Artists - *The Phantom of the Opera (Original London Cast)* (North American Limited Edition red vinyl, 2020s)
 - Various Artists - *K-Pop: Demon Hunters (Soundtrack)* (Standard black vinyl, 2024)
+- Various Artists - *JCPenney Presents: The Brightest Stars of Christmas* (Standard black vinyl RCA Dynaflex (department store compilation), 1974)
+- Various Artists - *Four Favorite Violin Concertos* (Columbia Masterworks; Isaac Stern; Bernstein / Ormandy; NY Philharmonic / Philadelphia Orchestra)
 - Various Artists - *Calm Christmas* (180g black vinyl Warner Classics, 2023)
 - Various Artists - *A Very Special Christmas* (Standard black vinyl A&M/UMe, 2020s)
 - Various Artists - *A Christmas Carol by Charles Dickens* (Standard black vinyl Jabberwocky, 1973)
@@ -47,7 +48,6 @@ The collection is stored in `vinyl-collection.csv` and the hunt list lives in `w
 - The Peppermint Kandy Kids - *Frosty The Snowman* (Standard black vinyl Peter Pan Records, 1970s)
 - The Mormon Tabernacle Choir - *Christmas Carols Around the World* (Standard black vinyl Columbia Limited Edition, 1970s)
 - The Beatles - *The Beatles (White Album)* (Standard black vinyl Apple/Universal, 2018)
-- Taylor Swift - *The Tortured Poets Department* (Opaque white vinyl Republic, 2024)
 
 ## 🎯 Wishlist Highlights
 
